@@ -1,4 +1,4 @@
-# Prediction of Profit
+# Profit Prediction
 # To predict the profit earned by the companies as per their expenditures in various sectors such as R&D,marketing,administration,etc using linear regression.
 
 
